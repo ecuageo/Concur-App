@@ -1,0 +1,19 @@
+Concurrency Fundamentals in Ruby
+
+1) Processes
+2) Threads
+3) Messaging
+
+Concurrency Models
+
+1) Processes and IPC
+2) Threading with mutexes
+3) Actors
+4) Evented
+
+Ruby Solutions
+
+1) Ruby Fibers and EventMachine
+2) Ruby system threads (1.9.3)
+3) JRuby and threads
+4) Ruby and IPC
